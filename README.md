@@ -3,10 +3,10 @@
 
 ## **Índice**
 
-* [1. Intro](https://github.com/mayradsantos/clonacion_google/edit/main/README.md#1-intro)
-* [2. ¿ Qué construí?](https://github.com/mayradsantos/clonacion_google/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](https://github.com/mayradsantos/clonacion_google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/mayradsantos/clonacion_google/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/mayradsantos/clonacion_google/blob/main/README.md#1-intro)
+* [2. ¿ Qué construí?](https://github.com/mayradsantos/clonacion_google/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del proyecto](https://github.com/mayradsantos/clonacion_google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a Demo](https://github.com/mayradsantos/clonacion_google/blob/main/README.md#4-link-a-demo)
 
 ****
 ## 1. Intro
