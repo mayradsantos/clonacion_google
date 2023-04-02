@@ -26,4 +26,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado:[Clonación de Google](https://app.netlify.com/sites/effortless-chebakia-f87517)
+Aquí puedes visualizar mi proyecto terminado:[Clonación de Google](https://effortless-chebakia-f87517.netlify.app/)
